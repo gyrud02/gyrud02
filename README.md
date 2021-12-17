@@ -6,7 +6,7 @@
 
 #### About me
 - :question: Ask me about anything : <a href="https://github.com/gyrud02/gyrud02/issues">here(issues)</a>
-- :mailbox: E-mail : gyrud6744@gmail.com
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyrud6744@gmail.com)](mailto:gyrud6744@gmail.com) : gyrud6744@gmail.com
 - :pencil: Velog : https://velog.io/@gyrud02
 
 ##
