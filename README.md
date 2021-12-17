@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 
-### About me
+#### About me
 - Ask me about anything <a href="https://github.com/gyrud02/gyrud02/issues">here</a>
 
 <!--
