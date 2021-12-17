@@ -5,7 +5,9 @@
 ##
 
 #### About me
-- Ask me about anything <a href="https://github.com/gyrud02/gyrud02/issues">here</a>
+- :question: Ask me about anything : <a href="https://github.com/gyrud02/gyrud02/issues">here(issues)</a>
+- :mailbox: E-mail : gyrud6744@gmail.com
+- :pencil: Velog : https://velog.io/@gyrud02
 
 ##
 
