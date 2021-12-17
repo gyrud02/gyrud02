@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 
+
+### About me
+- Ask me about anything <a href="https://github.com/gyrud02/gyrud02/issues">here</a>
+
 <!--
 **gyrud02/gyrud02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
