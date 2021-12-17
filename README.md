@@ -2,17 +2,21 @@
 
 ### Hi there 👋
 
+##
 
 #### About me
 - Ask me about anything <a href="https://github.com/gyrud02/gyrud02/issues">here</a>
 
+##
+
+
 
 #### Languages and Tools:
 
+##
 
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gyrud02)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyrud02)](https://github.com/anuraghazra/github-readme-stats) ![gyrud02's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyrud02&show_icons=true)
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyrud02&layout=compact&locale=kr&card_width=400&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|![gyrud02's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyrud02&show_icons=true&locale=kr&hide=contribs&hide_border=true)|
+|---|:-:|
 
 
 <!--
