@@ -14,7 +14,9 @@
 
 
 #### Languages and Tools:
-
+![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&link=https://www.java.com/ko/)
+![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square7logo=JavaScript&logoColor=white)
+![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=plastic&logo=Python&logoColor=white)
 ##
 
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyrud02&layout=compact&locale=kr&card_width=400&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|![gyrud02's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyrud02&show_icons=true&locale=kr&hide=contribs&hide_border=true)|
