@@ -1,11 +1,24 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgyrud02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Hi there 👋
+#### Hi there 👋 
+#### 🌱 I’m currently learning
+<!--
+**gyrud02/gyrud02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 ##
 
 #### About me
-- :question: Ask me about anything : <a href="https://github.com/gyrud02/gyrud02/issues">here(issues)</a>
+- 💬 Ask me about anything : <a href="https://github.com/gyrud02/gyrud02/issues">here(issues)</a>
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyrud6744@gmail.com)](mailto:gyrud6744@gmail.com) : gyrud6744@gmail.com
 - :pencil: Velog : https://velog.io/@gyrud02
 
@@ -33,17 +46,16 @@
 |---|:-:|
 
 
-<!--
-**gyrud02/gyrud02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 😄 Portpolio_URL
+##### MVC-Model 1
+###### · <a href="http://3.23.185.192/HK_project/index.jsp">HK_project</a>
+
+##### MVC-Model 2
+###### · <a href="http://3.23.185.192/Car_project/CarMain.jsp">Car_project</a>
+###### · <a href="http://3.23.185.192/0Mangro_TeamProject-0.01/4index.jsp">TEAM_Mango</a>
+  
+###### Spring-Framework MVC
+####### · <a href="www.something-take.shop/index">Something-take</a>
