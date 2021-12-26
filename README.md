@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 
 #### 😄 Portpolio
 |분류|MVC-Model 1|MVC-Model 2|Spring-Framework MVC|
-|---|---|---|---|
+|:-:|:-:|:-:|:-:|
 |URL|<a href="http://3.23.185.192/HK_project/index.jsp">HK_project</a>|<a href="http://3.23.185.192/Car_project/CarMain.jsp">Car_project</a>, <a href="http://3.23.185.192/0Mangro_TeamProject-0.01/4index.jsp">TEAM_Mango</a>|<a href="www.something-take.shop/index">Something-take</a>|
 
