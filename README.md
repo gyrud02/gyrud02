@@ -64,5 +64,5 @@ Here are some ideas to get you started:
 
 |분류|MVC-Model 1|MVC-Model 2|Spring-Framework MVC|팀 프로젝트(MVC-Model2)|
 |:-:|:-:|:-:|:-:|:-:|
-|URL|<a href="#" target='_blank'><del>HK_project</del></a>|<a href="#" target='_blank'><del>Car_project</del></a> |<a href="http://www.something-take.shop/index" target='_blank'>Something-take</a>|<a href="http://3.36.34.62:8080/0Mangro_TeamProject-1.0.0/4index.jsp" target='_blank'>TEAM_Mango</a>|
+|URL|<a href="#" target='_blank'><del>HK_project</del></a>|<a href="#" target='_blank'><del>Car_project</del></a> |<a href="http://www.something-take.shop/index" target='_blank'>Something-take</a>|<a href="http://3.36.34.62/0Mangro_TeamProject-1.0.0/4index.jsp" target='_blank'>TEAM_Mango</a>|
 
